@@ -1,2 +1,2 @@
-# sc-projection-model
-python model projecting the service complete date for the defined production scenario
+# Service Complete Projection Model
+A Python model projecting the service complete date for the defined production scenario
